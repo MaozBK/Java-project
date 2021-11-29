@@ -15,3 +15,12 @@ Software requirements
 8.	Need to add documentation in the code explaining the functions.
 9.	Need to use meaningful variable names for the departments and functions.
 10.	Need to pay attention to the connections between the departments
+
+
+Inorder to run the program follow the following steps.
+1. download the entire project.
+2. unzip it to "eclipse-workspace" location.
+3. import the folder  "JAVA-Finals-Maoz"
+4. run "ProjectMainWin" file. 
+
+goodluck :)
