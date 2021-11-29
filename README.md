@@ -1,4 +1,4 @@
-# Java-projectJava-project
+Java-project
 
 I was asked to build a software for national community centers Employees management.
 General Description
